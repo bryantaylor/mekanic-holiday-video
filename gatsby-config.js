@@ -13,6 +13,7 @@ module.exports = {
     description: `imagine better.`,
     author: `@gatsbyjs`,
     siteUrl: `https://mekanic.com`,
+    ogImage: `/ogimage.png`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
