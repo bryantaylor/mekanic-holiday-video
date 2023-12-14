@@ -28,7 +28,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: ["G-HJB76Q2EH1"],
+        trackingIds: ["G-LEH856MSKK"],
       },
     },
     `gatsby-transformer-sharp`,
